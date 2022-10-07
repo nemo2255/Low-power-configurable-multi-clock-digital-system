@@ -1,0 +1,190 @@
+{G:/digital diploma/final system/myUART/MUX.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/MUX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} {G:/digital diploma/final system/myUART/ALU.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {G:/digital diploma/final system/myUART/CLK_GATE.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/CLK_GATE.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CLK_GATE
+
+Top level modules:
+	CLK_GATE
+
+} {} {}} {G:/digital diploma/final system/myUART/BIT_SYNC.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/BIT_SYNC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BIT_SYNC
+
+Top level modules:
+	BIT_SYNC
+
+} {} {}} {G:/digital diploma/final system/myUART/deserializer.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/deserializer.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DESERIALIZER
+
+Top level modules:
+	DESERIALIZER
+
+} {} {}} {G:/digital diploma/final system/myUART/UART.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/UART.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART
+
+Top level modules:
+	UART
+
+} {} {}} {G:/digital diploma/final system/myUART/startcheck.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/startcheck.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module START_CHECK
+
+Top level modules:
+	START_CHECK
+
+} {} {}} {G:/digital diploma/final system/myUART/paritycalc.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/paritycalc.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module paritycalc
+
+Top level modules:
+	paritycalc
+
+} {} {}} {G:/digital diploma/final system/myUART/ClkDiv.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/ClkDiv.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ClkDiv
+
+Top level modules:
+	ClkDiv
+
+} {} {}} {G:/digital diploma/final system/myUART/datasampling.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/datasampling.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DATA_SAMPLING
+
+Top level modules:
+	DATA_SAMPLING
+
+} {} {}} {G:/digital diploma/final system/myUART/RegFile.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/RegFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {G:/digital diploma/final system/myUART/paritycheck.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/paritycheck.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PARITY_CHECK
+
+Top level modules:
+	PARITY_CHECK
+
+} {} {}} {G:/digital diploma/final system/myUART/FSM_RX.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/FSM_RX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM_RX
+
+Top level modules:
+	FSM_RX
+
+} {} {}} {G:/digital diploma/final system/myUART/SYS_TOP.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/SYS_TOP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SYS_TOP
+
+Top level modules:
+	SYS_TOP
+
+} {} {}} {G:/digital diploma/final system/myUART/FSM_TX.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/FSM_TX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM_TX
+
+Top level modules:
+	FSM_TX
+
+} {} {}} {G:/digital diploma/final system/myUART/serializer.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/serializer.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module serializer
+
+Top level modules:
+	serializer
+
+} {} {}} {G:/digital diploma/final system/myUART/edge_bit_counter.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/edge_bit_counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EDGE_BIT_COUNTER
+
+Top level modules:
+	EDGE_BIT_COUNTER
+
+} {} {}} {G:/digital diploma/final system/myUART/SYS_CTRL.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/SYS_CTRL.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SYS_CTRL
+
+Top level modules:
+	SYS_CTRL
+
+} {} {}} {G:/digital diploma/final system/myUART/stopcheck.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/stopcheck.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module STOP_CHECK
+
+Top level modules:
+	STOP_CHECK
+
+} {} {}} {G:/digital diploma/final system/myUART/RST_SYNC.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/RST_SYNC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RST_SYNC
+
+Top level modules:
+	RST_SYNC
+
+} {} {}} {G:/digital diploma/final system/myUART/mux2X1.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/mux2X1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2X1
+
+Top level modules:
+	mux2X1
+
+} {} {}} {G:/digital diploma/final system/myUART/SYS_TOP_dft.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/SYS_TOP_dft.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SYS_TOP_dft
+
+Top level modules:
+	SYS_TOP_dft
+
+} {} {}} {G:/digital diploma/final system/myUART/CTRL_RX.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/CTRL_RX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CTRL_RX
+
+Top level modules:
+	CTRL_RX
+
+} {} {}} {G:/digital diploma/final system/myUART/DATA_SYNC.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/DATA_SYNC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DATA_SYNC
+
+Top level modules:
+	DATA_SYNC
+
+} {} {}} {G:/digital diploma/final system/myUART/UART_RX_TOP.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/UART_RX_TOP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_RX_TOP
+
+Top level modules:
+	UART_RX_TOP
+
+} {} {}} {G:/digital diploma/final system/myUART/CTRL_TX.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/CTRL_TX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CTRL_TX
+
+Top level modules:
+	CTRL_TX
+
+} {} {}} {G:/digital diploma/final system/myUART/UART_TX_TOP.v} {1 {vlog -work work {G:/digital diploma/final system/myUART/UART_TX_TOP.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_TX_TOP
+
+Top level modules:
+	UART_TX_TOP
+
+} {} {}}

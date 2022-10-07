@@ -1,0 +1,563 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\digital diploma\final system\myUART
+vALU
+Z1 IE>b2a3JkEYTmmRID8Bg_f3
+Z2 VgFjiNJE:Sa6Y:k?EgQcd>0
+Z3 dG:\digital diploma\final system\myUART
+Z4 w1664980016
+Z5 8G:/digital diploma/final system/myUART/ALU.v
+Z6 FG:/digital diploma/final system/myUART/ALU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@a@l@u
+Z10 !s100 0Ro77NQHjT4IVSPDN]0jM3
+Z11 !s108 1665160718.433000
+Z12 !s107 G:/digital diploma/final system/myUART/ALU.v|
+Z13 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vBIT_SYNC
+Z14 Ie3k5LSE0bdfTh:6P=OEjG1
+Z15 VK8<Rij_HLHkHn_:9h@96z2
+R3
+Z16 w1656075302
+Z17 8G:/digital diploma/final system/myUART/BIT_SYNC.v
+Z18 FG:/digital diploma/final system/myUART/BIT_SYNC.v
+L0 6
+R7
+r1
+31
+R8
+Z19 n@b@i@t_@s@y@n@c
+Z20 !s100 @zMfCM_E6YXli?JYlAb5=0
+Z21 !s108 1665160718.714000
+Z22 !s107 G:/digital diploma/final system/myUART/BIT_SYNC.v|
+Z23 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/BIT_SYNC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCLK_GATE
+Z24 I6_=5BOH7nU<M<F]ofPWW=2
+Z25 V[T_=n^K=eP74_D993nR=c3
+R3
+Z26 w1660737260
+Z27 8G:/digital diploma/final system/myUART/CLK_GATE.v
+Z28 FG:/digital diploma/final system/myUART/CLK_GATE.v
+L0 6
+R7
+r1
+31
+R8
+Z29 n@c@l@k_@g@a@t@e
+Z30 !s100 DQ:1Bi1TC_4o]o2LE7[1Z2
+Z31 !s108 1665160719.008000
+Z32 !s107 G:/digital diploma/final system/myUART/CLK_GATE.v|
+Z33 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/CLK_GATE.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vClkDiv
+Z34 I^iYBCDPK`LnXFcfC0zdRi0
+Z35 V0>]<_IDniLGDnFM<:<`ld0
+R3
+Z36 w1630813452
+Z37 8G:/digital diploma/final system/myUART/ClkDiv.v
+Z38 FG:/digital diploma/final system/myUART/ClkDiv.v
+L0 2
+R7
+r1
+31
+R8
+Z39 n@clk@div
+Z40 !s100 b<aejEOW4ainfk778]zBB1
+Z41 !s108 1665160719.358000
+Z42 !s107 G:/digital diploma/final system/myUART/ClkDiv.v|
+Z43 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/ClkDiv.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCTRL_RX
+Z44 IZeRlIVnz9jnNY3h6LJJWd1
+Z45 V1Pg[iB3HQFc<kIBJzgYB60
+R3
+Z46 w1660727020
+Z47 8G:/digital diploma/final system/myUART/CTRL_RX.v
+Z48 FG:/digital diploma/final system/myUART/CTRL_RX.v
+L0 2
+R7
+r1
+31
+R8
+Z49 n@c@t@r@l_@r@x
+Z50 !s100 5<^5f^nNhO8Yi^5eg2l`H1
+Z51 !s108 1665160719.748000
+Z52 !s107 G:/digital diploma/final system/myUART/CTRL_RX.v|
+Z53 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/CTRL_RX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCTRL_TX
+Z54 IOX5^n7:YRdN^ATDoY4VB?3
+Z55 V53CQn`Yi>og;DOLPGPMDb3
+R3
+Z56 w1660726920
+Z57 8G:/digital diploma/final system/myUART/CTRL_TX.v
+Z58 FG:/digital diploma/final system/myUART/CTRL_TX.v
+L0 2
+R7
+r1
+31
+R8
+Z59 n@c@t@r@l_@t@x
+Z60 !s100 B2S]Qno9@8W^[iPkQ2A@J3
+Z61 !s108 1665160720.068000
+Z62 !s107 G:/digital diploma/final system/myUART/CTRL_TX.v|
+Z63 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/CTRL_TX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDATA_SAMPLING
+Z64 IGakG@[o9cSN798@NF@liQ2
+Z65 V`OfM2fW0k^j2X3Ul:B^570
+R3
+Z66 w1664634302
+Z67 8G:/digital diploma/final system/myUART/datasampling.v
+Z68 FG:/digital diploma/final system/myUART/datasampling.v
+L0 1
+R7
+r1
+31
+R8
+Z69 n@d@a@t@a_@s@a@m@p@l@i@n@g
+Z70 !s100 07Ac^3z]@m;nJ1HcaMdWN1
+Z71 !s108 1665160720.792000
+Z72 !s107 G:/digital diploma/final system/myUART/datasampling.v|
+Z73 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/datasampling.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDATA_SYNC
+Z74 IK`N>k1ZkNgnV?acSTSh;=2
+Z75 V_52F5o_XF[23;7JP45`Rd1
+R3
+Z76 w1656075368
+Z77 8G:/digital diploma/final system/myUART/DATA_SYNC.v
+Z78 FG:/digital diploma/final system/myUART/DATA_SYNC.v
+L0 6
+R7
+r1
+31
+R8
+Z79 n@d@a@t@a_@s@y@n@c
+Z80 !s100 UBkS:7kMI@6_D8ZX<XRkO3
+Z81 !s108 1665160720.478000
+Z82 !s107 G:/digital diploma/final system/myUART/DATA_SYNC.v|
+Z83 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/DATA_SYNC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDESERIALIZER
+Z84 I1^STJj^Wz@bWIg91ReQB?2
+Z85 VRfaMU4EXikg@VGTh0d7Vk0
+R3
+Z86 w1663937584
+Z87 8G:/digital diploma/final system/myUART/deserializer.v
+Z88 FG:/digital diploma/final system/myUART/deserializer.v
+L0 1
+R7
+r1
+31
+R8
+Z89 n@d@e@s@e@r@i@a@l@i@z@e@r
+Z90 !s100 [?ONcio@[2=KjmI0138KE2
+Z91 !s108 1665160721.102000
+Z92 !s107 G:/digital diploma/final system/myUART/deserializer.v|
+Z93 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/deserializer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEDGE_BIT_COUNTER
+Z94 I?=C:DY^n54SGCETnCFSNX3
+Z95 V=ELo96g@_^nLcUff65Pd`3
+R3
+Z96 w1664631401
+Z97 8G:/digital diploma/final system/myUART/edge_bit_counter.v
+Z98 FG:/digital diploma/final system/myUART/edge_bit_counter.v
+L0 1
+R7
+r1
+31
+R8
+Z99 n@e@d@g@e_@b@i@t_@c@o@u@n@t@e@r
+Z100 !s100 @RfBa2l4l2XAM1K]6l?^d2
+Z101 !s108 1665160721.472000
+Z102 !s107 G:/digital diploma/final system/myUART/edge_bit_counter.v|
+Z103 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/edge_bit_counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_RX
+Z104 ICiUR:>InI_Mk`zSbeU`Sf3
+Z105 V]EV8::k:QI4:bd7TaMM4C2
+R3
+Z106 w1664980802
+Z107 8G:/digital diploma/final system/myUART/FSM_RX.v
+Z108 FG:/digital diploma/final system/myUART/FSM_RX.v
+L0 1
+R7
+r1
+31
+R8
+Z109 n@f@s@m_@r@x
+Z110 !s100 E@c6W4[OZ8AJePHh3Wh=A3
+Z111 !s108 1665160721.792000
+Z112 !s107 G:/digital diploma/final system/myUART/FSM_RX.v|
+Z113 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/FSM_RX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFSM_TX
+Z114 I3]MISkD4]I^QLh5c2?RcM2
+Z115 V1FWkLhnD=`U0cjU7:Qoi_1
+R3
+Z116 w1664980872
+Z117 8G:/digital diploma/final system/myUART/FSM_TX.v
+Z118 FG:/digital diploma/final system/myUART/FSM_TX.v
+L0 1
+R7
+r1
+31
+R8
+Z119 n@f@s@m_@t@x
+Z120 !s100 7=RoXDFe0RWXhgg5DSldo3
+Z121 !s108 1665160722.226000
+Z122 !s107 G:/digital diploma/final system/myUART/FSM_TX.v|
+Z123 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/FSM_TX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX
+Z124 I1MjMX2acJXfZC20DjY9i;2
+Z125 V4L1n>G<0zHS6WK7J@cLBC0
+R3
+Z126 w1663782796
+Z127 8G:/digital diploma/final system/myUART/MUX.v
+Z128 FG:/digital diploma/final system/myUART/MUX.v
+L0 1
+R7
+r1
+31
+R8
+Z129 n@m@u@x
+Z130 !s100 C`AJ0O<jbLP]d9D6ab0i23
+Z131 !s108 1665160722.480000
+Z132 !s107 G:/digital diploma/final system/myUART/MUX.v|
+Z133 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/MUX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2X1
+Z134 I>9BR2OZW8SL6=>6k^89HJ2
+Z135 VL@L51McA`QJ[UG8R270aG0
+R3
+Z136 w1649935978
+Z137 8G:/digital diploma/final system/myUART/mux2X1.v
+Z138 FG:/digital diploma/final system/myUART/mux2X1.v
+L0 2
+R7
+r1
+31
+R8
+Z139 nmux2@x1
+Z140 !s100 LUKA@T;iLKi;B[;6@`Q]J3
+Z141 !s108 1665160722.840000
+Z142 !s107 G:/digital diploma/final system/myUART/mux2X1.v|
+Z143 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/mux2X1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPARITY_CHECK
+Z144 IS:ENgQ5gNKAVeIPWFbI463
+Z145 V?[dZVO=5e63;Q^C_Ag2Jn3
+R3
+Z146 w1663937721
+Z147 8G:/digital diploma/final system/myUART/paritycheck.v
+Z148 FG:/digital diploma/final system/myUART/paritycheck.v
+L0 1
+R7
+r1
+31
+R8
+Z149 n@p@a@r@i@t@y_@c@h@e@c@k
+Z150 !s100 @OagKP6oXRO:LTmRA@5j_3
+Z151 !s108 1665160723.580000
+Z152 !s107 G:/digital diploma/final system/myUART/paritycheck.v|
+Z153 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/paritycheck.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vparitycalc
+Z154 IJbdfP1kEIGL]bB@;ineHG0
+Z155 V2UC39G9zR:o9mz>gYaaOg2
+R3
+Z156 w1663498592
+Z157 8G:/digital diploma/final system/myUART/paritycalc.v
+Z158 FG:/digital diploma/final system/myUART/paritycalc.v
+L0 1
+R7
+r1
+31
+R8
+Z159 !s100 c1lceNQblHBS7LcADPLB`3
+Z160 !s108 1665160723.210000
+Z161 !s107 G:/digital diploma/final system/myUART/paritycalc.v|
+Z162 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/paritycalc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile
+Z163 IXo`hY0Pjn0<]kXL`VcmgM1
+Z164 VXm?D`26SMH_XM<;2gRKfP2
+R3
+Z165 w1664979594
+Z166 8G:/digital diploma/final system/myUART/RegFile.v
+Z167 FG:/digital diploma/final system/myUART/RegFile.v
+L0 2
+R7
+r1
+31
+R8
+Z168 n@reg@file
+Z169 !s100 eB:Ln9JL4fCj0W<N7@0JF3
+Z170 !s108 1665160723.936000
+Z171 !s107 G:/digital diploma/final system/myUART/RegFile.v|
+Z172 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/RegFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRST_SYNC
+Z173 I:9omSnL>in_kTN86le8JF0
+Z174 Vj:MADD@4BSi`FVEJdJS9P3
+R3
+Z175 w1664980381
+Z176 8G:/digital diploma/final system/myUART/RST_SYNC.v
+Z177 FG:/digital diploma/final system/myUART/RST_SYNC.v
+L0 6
+R7
+r1
+31
+R8
+Z178 n@r@s@t_@s@y@n@c
+Z179 !s100 d:B06McN]7RIMJIXj_0jm0
+Z180 !s108 1665160724.246000
+Z181 !s107 G:/digital diploma/final system/myUART/RST_SYNC.v|
+Z182 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/RST_SYNC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vserializer
+Z183 I:;kNb2_l][Gl95A[W_4Q>2
+Z184 VNka8GUHXkjGP3<;M[3QIn2
+R3
+Z185 w1663759796
+Z186 8G:/digital diploma/final system/myUART/serializer.v
+Z187 FG:/digital diploma/final system/myUART/serializer.v
+L0 1
+R7
+r1
+31
+R8
+Z188 !s100 PQ^Rl3Z;::FzUW:[L]gm11
+Z189 !s108 1665160724.600000
+Z190 !s107 G:/digital diploma/final system/myUART/serializer.v|
+Z191 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/serializer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSTART_CHECK
+Z192 IbzhRjZDmY[Rj[;C_WzcXo0
+Z193 Vj99;QHO6aV]O3l_<E;ATQ2
+R3
+Z194 w1663789952
+Z195 8G:/digital diploma/final system/myUART/startcheck.v
+Z196 FG:/digital diploma/final system/myUART/startcheck.v
+L0 1
+R7
+r1
+31
+R8
+Z197 n@s@t@a@r@t_@c@h@e@c@k
+Z198 !s100 >oK]ZSe04FFdmD:SPha`l3
+Z199 !s108 1665160724.942000
+Z200 !s107 G:/digital diploma/final system/myUART/startcheck.v|
+Z201 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/startcheck.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSTOP_CHECK
+Z202 I5FY:YP4_JoWdzCS_jLSb_1
+Z203 VBYojOmzL>[c9dFf1_dVXz1
+R3
+Z204 w1663792770
+Z205 8G:/digital diploma/final system/myUART/stopcheck.v
+Z206 FG:/digital diploma/final system/myUART/stopcheck.v
+L0 1
+R7
+r1
+31
+R8
+Z207 n@s@t@o@p_@c@h@e@c@k
+Z208 !s100 JN4YnJ:LNnFF6`m>cd73F0
+Z209 !s108 1665160725.241000
+Z210 !s107 G:/digital diploma/final system/myUART/stopcheck.v|
+Z211 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/stopcheck.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSYS_CTRL
+Z212 IdZOlof:zae9ZTF1[W9fG:3
+Z213 VUPJjIza4MC3dPDb103kX<0
+R3
+Z214 w1652338448
+Z215 8G:/digital diploma/final system/myUART/SYS_CTRL.v
+Z216 FG:/digital diploma/final system/myUART/SYS_CTRL.v
+L0 2
+R7
+r1
+31
+R8
+Z217 n@s@y@s_@c@t@r@l
+Z218 !s100 Dj;AX@_HRg<7MFFSUC0YT0
+Z219 !s108 1665160725.601000
+Z220 !s107 G:/digital diploma/final system/myUART/SYS_CTRL.v|
+Z221 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/SYS_CTRL.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSYS_TOP
+Z222 IJzeNN@H2ULXo[K_6BmLk`0
+Z223 V5kj>>EOGm:33No?BOHLV23
+R3
+Z224 w1664983657
+Z225 8G:/digital diploma/final system/myUART/SYS_TOP.v
+Z226 FG:/digital diploma/final system/myUART/SYS_TOP.v
+L0 2
+R7
+r1
+31
+R8
+Z227 n@s@y@s_@t@o@p
+Z228 !s100 HcHe^;LSHJdHnT;f86X0g0
+Z229 !s108 1665160725.951000
+Z230 !s107 G:/digital diploma/final system/myUART/SYS_TOP.v|
+Z231 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/SYS_TOP.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSYS_TOP_dft
+Z232 I[0NSI?fS5X7mMd4dJREA]0
+Z233 ValodmLKFlQA9SdH^SOzC=0
+R3
+Z234 w1664989504
+Z235 8G:/digital diploma/final system/myUART/SYS_TOP_dft.v
+Z236 FG:/digital diploma/final system/myUART/SYS_TOP_dft.v
+L0 2
+R7
+r1
+31
+R8
+Z237 n@s@y@s_@t@o@p_dft
+Z238 !s100 R;gY80W@;o1U8MQfQ4nVT2
+Z239 !s108 1665160726.331000
+Z240 !s107 G:/digital diploma/final system/myUART/SYS_TOP_dft.v|
+Z241 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/SYS_TOP_dft.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSYS_TOP_TB
+!i10b 1
+!s100 <jFKU_2N2cm`W9ATd`fMD3
+IQUaEaml1j0j>dHP<C^nj23
+Z242 Vz0fU@S18^ZJSA6S9OVJaM3
+R3
+w1665161463
+Z243 8G:/digital diploma/final system/myUART/SYS_TOP_tb.v
+Z244 FG:/digital diploma/final system/myUART/SYS_TOP_tb.v
+L0 4
+R7
+r1
+!s85 0
+31
+!s108 1665161475.075000
+!s107 G:/digital diploma/final system/myUART/SYS_TOP_tb.v|
+Z245 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/SYS_TOP_tb.v|
+!s101 -O0
+R8
+Z246 n@s@y@s_@t@o@p_@t@b
+vUART
+Z247 IQ7]ziF:eM3R_=WSL]DgC92
+Z248 V=i1DK77XN_Gg3nCAZaRS52
+R3
+Z249 w1664989777
+Z250 8G:/digital diploma/final system/myUART/UART.v
+Z251 FG:/digital diploma/final system/myUART/UART.v
+L0 2
+R7
+r1
+31
+R8
+Z252 n@u@a@r@t
+Z253 !s100 Yg4zQAVdlQbd8OgeXkKEZ3
+Z254 !s108 1665160727.091000
+Z255 !s107 G:/digital diploma/final system/myUART/UART.v|
+Z256 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/UART.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vUART_RX_TOP
+Z257 IIFh9gTESTkU<jmzWQ0z9D1
+Z258 Vz4nc[fVRoSWlMEUhZ?WO_3
+R3
+Z259 w1664980830
+Z260 8G:/digital diploma/final system/myUART/UART_RX_TOP.v
+Z261 FG:/digital diploma/final system/myUART/UART_RX_TOP.v
+L0 1
+R7
+r1
+31
+R8
+Z262 n@u@a@r@t_@r@x_@t@o@p
+Z263 !s100 <JH]=U<7IEceTE>^`m]RQ1
+Z264 !s108 1665160727.451000
+Z265 !s107 G:/digital diploma/final system/myUART/UART_RX_TOP.v|
+Z266 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/UART_RX_TOP.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vUART_TX_TOP
+Z267 IeJWzNeHk1>0J^le^=TkNk3
+Z268 VdLLmeDKbmT3zCAH26JVnL0
+R3
+Z269 w1665063328
+Z270 8G:/digital diploma/final system/myUART/UART_TX_TOP.v
+Z271 FG:/digital diploma/final system/myUART/UART_TX_TOP.v
+L0 1
+R7
+r1
+31
+R8
+Z272 n@u@a@r@t_@t@x_@t@o@p
+Z273 !s100 7E9g4PAnNIc^AIXE?DUTB2
+Z274 !s108 1665160727.901000
+Z275 !s107 G:/digital diploma/final system/myUART/UART_TX_TOP.v|
+Z276 !s90 -reportprogress|300|-work|work|G:/digital diploma/final system/myUART/UART_TX_TOP.v|
+!i10b 1
+!s85 0
+!s101 -O0
